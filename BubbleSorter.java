@@ -2,7 +2,7 @@ import java.util.Arrays;
 
 /** 
  * BubbleSorter class implements the Sorter interface.
- * @author ponbarry
+ * @author Nada Al-Thawr
  */
 public class BubbleSorter implements Sorter {
 
